@@ -1,0 +1,2 @@
+{
+} as $username_mapping |
